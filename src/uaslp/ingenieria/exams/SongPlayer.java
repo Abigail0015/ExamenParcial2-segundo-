@@ -15,7 +15,6 @@ public class SongPlayer {
             Nota nota = notas.next();
 
             instrumento.tocar(notas);
-
         }
 
     }
